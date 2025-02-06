@@ -1,0 +1,17 @@
+ifeval::["{preference}" == "vegetarian"]
+=== Garden Veggie Delight
+
+. Toast 2 slices of whole grain bread
+. Spread with hummus
+. Layer: Cucumber, avocado, sprouts
+. Top with tomato and lettuce
+endif::[]
+
+ifeval::["{preference}" == "standard"]
+=== Classic Club Sandwich
+
+. Toast 3 slices of bread
+. Layer 1: Mayonnaise, lettuce, sliced turkey
+. Layer 2: Bacon, tomato, avocado
+. Stack and slice diagonally
+endif::[]

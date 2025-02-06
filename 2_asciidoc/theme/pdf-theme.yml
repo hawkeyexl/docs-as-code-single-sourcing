@@ -1,0 +1,10 @@
+extends: default
+footer:
+  height: 0.75in
+  line_height: 1
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'

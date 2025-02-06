@@ -1,0 +1,26 @@
+= Making the Perfect Sandwich
+:description: Learn how to make the perfect sandwich with our comprehensive guide
+
+The art of sandwich-making is a delicate balance of textures and flavors. Follow these steps to create sandwich perfection.
+
+== Essential Steps
+
+1. Choose your bread wisely
+2. Layer your ingredients strategically 
+3. Consider the sauce-to-filling ratio
+
+include::partials/safety-notice.adoc[]
+
+== The Standard Recipe
+
+Now for the exciting part - let's build our sandwich!
+
+:preference: standard
+include::partials/recipe-variations.adoc[]
+
+== The Vegetarian Twist
+
+For those who prefer a vegetarian option, here's a recipe for you!
+
+:preference: vegetarian
+include::partials/recipe-variations.adoc[]
