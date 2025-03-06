@@ -1,13 +1,12 @@
 site:
   title: Sandwich Making Guide
-  url: https://your-username.github.io/your-repo
-  start_page: sandwich-guide::perfect-sandwich.adoc
+  start_page: ROOT::perfect-sandwich.adoc
 
 content:
   sources:
   - url: .
     start_path: docs
-    branches: main
+    branches: HEAD
 
 ui:
   bundle:
