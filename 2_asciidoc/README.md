@@ -34,5 +34,5 @@ To generate an HTML version of the sandwich guide using Antora, you can use the 
 2. Run Antora to generate the site:
 
    ```bash
-   antora antora-playbook.yml
+   npx antora antora-playbook.yml
    ```
