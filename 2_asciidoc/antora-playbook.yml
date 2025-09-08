@@ -4,9 +4,9 @@ site:
 
 content:
   sources:
-  - url: .
-    start_path: docs
-    branches: HEAD
+  - url: ../
+    start_path: 2_asciidoc/docs
+    branches: main
 
 ui:
   bundle:
