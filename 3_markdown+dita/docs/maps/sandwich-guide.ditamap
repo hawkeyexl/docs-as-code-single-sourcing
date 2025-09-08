@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Guide to Making the Perfect Sandwich</title>
+  <topicref href="../topics/perfect-sandwich.md" format="markdown">
+    <topicref href="../topics/safety-notice.md" format="markdown"/>
+    <topicref href="../topics/recipe-variations.md" format="markdown"/>
+  </topicref>
+</map>

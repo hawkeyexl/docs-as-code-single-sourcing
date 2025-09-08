@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="perfect_sandwich">
+    <title>Guide to Making the Perfect Sandwich</title>
+    <body>
+        <p>The art of sandwich-making is a delicate balance of textures and flavors. Follow these steps to create sandwich perfection.</p>
+        
+        <section>
+            <title>Essential Steps</title>
+            <ol>
+                <li>Choose your bread wisely</li>
+                <li>Layer your ingredients strategically</li>
+                <li>Consider the sauce-to-filling ratio</li>
+            </ol>
+        </section>
+        
+        <section>
+            <title>Food Safety Notice</title>
+            <note type="caution">
+                <p>Please observe these safety guidelines:</p>
+                <ul>
+                    <li>Always wash your hands before food preparation</li>
+                    <li>Keep ingredients refrigerated until use</li>
+                    <li>Use clean cutting boards and utensils</li>
+                    <li>Check ingredient expiration dates</li>
+                </ul>
+            </note>
+        </section>
+        
+        <section>
+            <title>The Recipe</title>
+            <p>Now for the exciting part - let's build our sandwich!</p>
+            
+            <div audience="standard">
+                <title>Classic Club Sandwich</title>
+                <ol>
+                    <li>Toast 3 slices of bread</li>
+                    <li>Layer 1: Mayonnaise, lettuce, sliced turkey</li>
+                    <li>Layer 2: Bacon, tomato, avocado</li>
+                    <li>Stack and slice diagonally</li>
+                </ol>
+            </div>
+            
+            <div audience="vegetarian">
+                <title>Garden Veggie Delight</title>
+                <ol>
+                    <li>Toast 2 slices of whole grain bread</li>
+                    <li>Spread with hummus</li>
+                    <li>Layer: Cucumber, avocado, sprouts</li>
+                    <li>Top with tomato and lettuce</li>
+                </ol>
+            </div>
+        </section>
+    </body>
+</topic>
